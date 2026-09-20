@@ -2,6 +2,7 @@ const menuItems = [
     { title: "西部走廊", data: "western_corridor" },
     { title: "三類場域", data: "third_category" },
     { title: "服務效率", data: "service_efficiency" },
+    { title: "經濟效益", data: "economic_benefits" },
 ];
 
 const highlightCities = ["南投縣", "基隆市", "屏東縣", "宜蘭縣"];
